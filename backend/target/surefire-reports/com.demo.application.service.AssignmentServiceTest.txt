@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.demo.application.service.AssignmentServiceTest
+-------------------------------------------------------------------------------
+Tests run: 13, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.795 s - in com.demo.application.service.AssignmentServiceTest

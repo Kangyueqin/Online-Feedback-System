@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1e57f8cf-4652-425c-92fd-97754bab197a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="JUnit4 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="2bxErUg1OCZH11eNDHwzZZIztSF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../S3 Y2/COMP285软件开发/Labtest201676886" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.demo.application.service" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.AssignmentServiceTest">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AssignmentServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lesson1_base_configuration_template" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.demo.application.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.demo.application.service" />
+      <option name="MAIN_CLASS_NAME" value="com.demo.application.service.AssignmentServiceTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AssignmentServiceTest.downloadAssignment" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lesson1_base_configuration_template" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.demo.application.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.demo.application.service" />
+      <option name="MAIN_CLASS_NAME" value="com.demo.application.service.AssignmentServiceTest" />
+      <option name="METHOD_NAME" value="downloadAssignment" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AssignmentServiceTest.downloadAssignmentWithWrongPath" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lesson1_base_configuration_template" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.demo.application.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.demo.application.service" />
+      <option name="MAIN_CLASS_NAME" value="com.demo.application.service.AssignmentServiceTest" />
+      <option name="METHOD_NAME" value="downloadAssignmentWithWrongPath" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TeacherServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lesson1_base_configuration_template" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.demo.application.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.demo.application.service" />
+      <option name="MAIN_CLASS_NAME" value="com.demo.application.service.TeacherServiceTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TeacherServiceTest.findTeacherByCorrectId" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lesson1_base_configuration_template" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.demo.application.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.demo.application.service" />
+      <option name="MAIN_CLASS_NAME" value="com.demo.application.service.TeacherServiceTest" />
+      <option name="METHOD_NAME" value="findTeacherByCorrectId" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.AssignmentServiceTest" />
+        <item itemvalue="JUnit.TeacherServiceTest.findTeacherByCorrectId" />
+        <item itemvalue="JUnit.TeacherServiceTest" />
+        <item itemvalue="JUnit.AssignmentServiceTest.downloadAssignmentWithWrongPath" />
+        <item itemvalue="JUnit.AssignmentServiceTest.downloadAssignment" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1e57f8cf-4652-425c-92fd-97754bab197a" name="Default Changelist" comment="" />
+      <created>1707148529756</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1707148529756</updated>
+      <workItem from="1707148531279" duration="506000" />
+      <workItem from="1707149054419" duration="2713000" />
+      <workItem from="1707321940385" duration="16101000" />
+      <workItem from="1707672972371" duration="14450000" />
+      <workItem from="1707703118726" duration="55000" />
+      <workItem from="1707703187015" duration="375000" />
+      <workItem from="1707750097431" duration="5512000" />
+      <workItem from="1707853152025" duration="8022000" />
+      <workItem from="1707922941956" duration="382000" />
+      <workItem from="1707924273692" duration="6215000" />
+      <workItem from="1708037312275" duration="2973000" />
+      <workItem from="1708094209942" duration="16297000" />
+      <workItem from="1708198385773" duration="5336000" />
+      <workItem from="1708337564045" duration="1506000" />
+      <workItem from="1708552216543" duration="2923000" />
+      <workItem from="1708626205634" duration="3575000" />
+      <workItem from="1709166099476" duration="1239000" />
+      <workItem from="1709471649405" duration="1365000" />
+      <workItem from="1709547975124" duration="3176000" />
+      <workItem from="1710164407683" duration="615000" />
+      <workItem from="1710709465380" duration="2529000" />
+      <workItem from="1710748078430" duration="2458000" />
+      <workItem from="1711580607097" duration="9519000" />
+      <workItem from="1711708643592" duration="4989000" />
+      <workItem from="1712312503662" duration="5730000" />
+      <workItem from="1712491703689" duration="22139000" />
+      <workItem from="1712668632194" duration="4200000" />
+      <workItem from="1712745180607" duration="28883000" />
+      <workItem from="1712845305437" duration="10746000" />
+      <workItem from="1712922734300" duration="4448000" />
+      <workItem from="1712943769611" duration="217000" />
+      <workItem from="1712944176228" duration="6674000" />
+      <workItem from="1713000210247" duration="16891000" />
+      <workItem from="1713086433827" duration="29560000" />
+      <workItem from="1713140360266" duration="1261000" />
+      <workItem from="1713169880857" duration="2929000" />
+      <workItem from="1713190730942" duration="1358000" />
+      <workItem from="1713259546231" duration="1195000" />
+      <workItem from="1713282370619" duration="2651000" />
+      <workItem from="1713353843927" duration="1201000" />
+      <workItem from="1713478597743" duration="8743000" />
+      <workItem from="1714073064335" duration="4084000" />
+      <workItem from="1714082047225" duration="2816000" />
+      <workItem from="1714125859490" duration="1662000" />
+      <workItem from="1714664524181" duration="11534000" />
+      <workItem from="1714833728660" duration="19620000" />
+      <workItem from="1715164904781" duration="653000" />
+      <workItem from="1715178411615" duration="3556000" />
+      <workItem from="1715196438337" duration="11527000" />
+      <workItem from="1715270866302" duration="596000" />
+      <workItem from="1715290135391" duration="7494000" />
+      <workItem from="1715332353886" duration="8269000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/demo/application/service/CommentService.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/demo/application/service/CommentService.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/demo/application/service/AssignmentService.java</url>
+          <line>79</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/demo/application/Controller/AssignmentController.java</url>
+          <line>71</line>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/demo/application/Controller/AssignmentController.java</url>
+          <line>81</line>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/demo/application/service/RubricService.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/demo/application/service/UserService.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/demo/application/Controller/AssignmentController.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/demo/application/service/AssignmentService.java</url>
+          <line>45</line>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/demo/application/service/RubricServiceTest.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="org.hibernate.tool.schema.spi.CommandAcceptanceException" package="org.hibernate.tool.schema.spi" />
+          <option name="timeStamp" value="9" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="JUnit">
+        <watch expression="rubric" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
